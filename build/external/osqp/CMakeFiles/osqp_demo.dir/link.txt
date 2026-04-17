@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Wall -fdiagnostics-show-option -Wno-error -w -O3 -O3 -DNDEBUG  -rdynamic CMakeFiles/osqp_demo.dir/examples/osqp_demo.c.o  -o out/osqp_demo  out/libosqp.a  -lm -lrt -ldl 
